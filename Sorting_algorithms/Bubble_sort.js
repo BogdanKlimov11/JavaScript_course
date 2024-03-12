@@ -1,3 +1,4 @@
+// Пузырьковая сортировка
 function bubble_sort(arr) {
     const n = arr.length;
     // Проходим по всем элементам массива
